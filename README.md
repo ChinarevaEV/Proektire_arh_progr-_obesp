@@ -1,2 +1,0 @@
-# Proektire_arh_progr-_obesp
-Proektirovanie arhitektur programmnogo obespecheniya
