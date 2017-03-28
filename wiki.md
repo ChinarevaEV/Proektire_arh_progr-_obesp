@@ -38,4 +38,4 @@
 
 ## Варианты использования
 Диаграмма прецедентов
-![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/UML.png)
+![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/UML.png)
