@@ -101,11 +101,17 @@
 ![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/ClassDiagram.png)
 
 ## Диаграмма последовательностей
+
 * Диаграмма покупки фильма
+
 ![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/posled_buy_film.png)
+
 * Диаграмма оптовой покупки
+
 ![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/posled_opt.png)
+
 * Диаграмма розничной покупки
+
 ![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/posled_obich_kl.png)
 
 
