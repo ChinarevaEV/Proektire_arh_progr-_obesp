@@ -97,9 +97,13 @@
 Получение подробной информации о фильмах
 
 
+## Диаграмма классов
+![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/ClassDiagram.png)
 
-
-
+## Диаграмма последовательностей
+![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/posled_buy_film.png)
+![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/posled_opt.png)
+![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/posled_obich_kl.png)
 
 
 
