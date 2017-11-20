@@ -112,7 +112,7 @@
 
 * Диаграмма розничной покупки
 
-![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/posled_obich_kl.png)
+![use-case](https://github.com/ChinarevaEV/Proektire_arh_progr-_obesp/blob/master/cl_bron.png)
 
 
 
